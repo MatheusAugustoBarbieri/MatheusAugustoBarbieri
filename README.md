@@ -1,5 +1,5 @@
 ### Olá! Meu nome é Matheus 👋
-<div style="background-color: blue">
+<div style="background: blue">
 <div>
   <a href="https://github.com/MatheusAugustoBarbieri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusAugustoBarbieri&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
