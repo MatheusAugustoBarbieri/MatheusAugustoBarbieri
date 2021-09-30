@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Matheus 👋
-
-<div style="background-color: orange">
+<div style="background-color: blue">
+<div>
   <a href="https://github.com/MatheusAugustoBarbieri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusAugustoBarbieri&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAugustoBarbieri&layout=compact&langs_count=7&theme=vue-dark"/>
@@ -24,3 +24,4 @@
   <a href="https://www.linkedin.com/in/matheus-a-barbieri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![Snake animation](https://github.com/MatheusAugustoBarbieri/MatheusAugustoBarbieri/blob/output/github-contribution-grid-snake.svg)
+  </div>
