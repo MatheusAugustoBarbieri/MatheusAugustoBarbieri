@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Matheus 👋
 
 <div>
-  <a href="https://github.com/MatheusAugustoBarbieri">
+  <a height="180em" width="380" href="https://github.com/MatheusAugustoBarbieri">
    <img src="https://images6.alphacoders.com/103/thumb-1920-1038319.jpg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusAugustoBarbieri&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAugustoBarbieri&layout=compact&langs_count=7&theme=vue-dark"/>
