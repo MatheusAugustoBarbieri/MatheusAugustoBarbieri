@@ -26,5 +26,5 @@
 
   <a href="https://www.linkedin.com/in/matheus-a-barbieri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Snake animation](https://github.com/MatheusAugustoBarbieri/MatheusAugustoBarbieri/blob/output/github-contribution-grid-snake.svg)
+
 
