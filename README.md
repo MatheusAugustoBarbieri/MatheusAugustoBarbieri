@@ -25,4 +25,8 @@
   <a href="https://www.linkedin.com/in/matheus-a-barbieri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
+##
+<div align="center">
+<img src="https://i.pinimg.com/originals/5b/e4/72/5be4729ea4ae57b4a42444ba6485183e.gif" width="700"/>
+</div>
 
