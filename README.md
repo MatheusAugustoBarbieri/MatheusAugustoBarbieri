@@ -27,6 +27,6 @@
 
 ##
 <div align="center">
-<img src="https://i.pinimg.com/originals/5b/e4/72/5be4729ea4ae57b4a42444ba6485183e.gif" width="700"/>
+<img src="https://i.pinimg.com/originals/5b/e4/72/5be4729ea4ae57b4a42444ba6485183e.gif" width="100%"/>
 </div>
 
