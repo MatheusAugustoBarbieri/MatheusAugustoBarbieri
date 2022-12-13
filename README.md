@@ -28,7 +28,5 @@
 
 
 ##
-<div align="center">
-<img src="https://i0.wp.com/mossandfog.com/wp-content/uploads/2019/10/dribbble_pumpkin2.gif?resize=800%2C600&ssl=1" width="100%"/>
-</div>
+
 
